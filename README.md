@@ -2,7 +2,6 @@
 
 - 💻 I'm a Software Engineer working at EAB. 
 - 🏡 Born in Toronto Ontario, Canada.
-- 🌱 I'm currently learning about MCP for LLMs.
 - 📫 You can reach out to me via: [Email](mailto:salinder.sid@gmail.com), Discord (`Sal#1294`).
 - ⚡ Fun facts: I'm an avid computer gamer, computer hardware enthusiast and a fan of heavy metal.
 <!--
